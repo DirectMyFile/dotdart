@@ -1,0 +1,5 @@
+.packages
+.idea/
+*.swp
+*.iml
+pubspec.lock

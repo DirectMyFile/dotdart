@@ -1,0 +1,7 @@
+name: dotdart
+description: Dotfile management tool
+version: 0.1.0
+dependencies:
+  yaml: ^2.1.12
+  legit:
+    git: https://github.com/DirectMyFile/legit.git
